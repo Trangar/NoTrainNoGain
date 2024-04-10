@@ -1,0 +1,11 @@
+{
+    "name": "NoTrainNoGain",
+    "version": "0.0.1",
+    "title": "No train, no gain",
+    "author": "Trangar",
+    "factorio_version": "1.1",
+    "description": "You spawn in a train. You die if you leave the train. You will be rail-ly happy. Be open and train-sparant. This is how you roll.",
+    "dependencies": [
+        "base"
+    ]
+}
